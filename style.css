@@ -6,4 +6,10 @@ h1 {
     font-size: 48px;
     text-align: center;
     font-style: italic;
+    color: blue;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
 }
