@@ -13,3 +13,7 @@ h2 {
     font-size: 30px;
     text-align: center;
 }
+
+h3, ul li {
+    text-align: justify;
+}
