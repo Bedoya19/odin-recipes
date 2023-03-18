@@ -17,3 +17,8 @@ h2 {
 h3, ul li {
     text-align: justify;
 }
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
